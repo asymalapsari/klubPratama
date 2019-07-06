@@ -1,0 +1,14 @@
+/*custom css*/
+@media (max-width: 768px){
+    #firstSlide h4 {
+        font-size: 20px;
+    }
+
+    #firstSlide h2 {
+        font-size: 24px;
+    }
+
+    #firstSlide {
+        bottom: 15% !important;
+    }
+}
